@@ -5,7 +5,7 @@
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/recent-news.git
+git clone https://github.com/IB1aZe/recent-news.git
 ```
 
 2. Install dependencies:
