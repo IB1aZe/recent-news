@@ -18,7 +18,7 @@ npm install
 3. Create new file `.env` in root folder and past this two key:
 
 ```
-API_URL = your_url_news
+API_URL = "https://newsapi.org/v2"
 API_KEY = your_api_news_key
 ```
 
